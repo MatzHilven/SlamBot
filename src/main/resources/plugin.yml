@@ -1,0 +1,5 @@
+name: SlamBot
+version: '${project.version}'
+main: me.matzhilven.slambot.SlamBot
+api-version: 1.17
+authors: [ MatzHilven ]

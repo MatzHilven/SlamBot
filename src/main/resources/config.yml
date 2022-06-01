@@ -1,0 +1,32 @@
+server: "lobby"
+
+# Guild Stuff
+guild-id: 972624123471732776
+
+# Bot Stuff
+bot:
+  token: NzU2MTgyNjExMDA4Njg0MjAz.GYQImW.qgf1BP3-8r7HoK2xMyG16wtzjw2WTgtziiZpTs
+  status: "play.slampvp.com"
+
+# Ticket Stuff
+ticket:
+  channel: 973317183318933606
+  category: 973318666957504522
+
+# Suggestion Stuff
+suggestions-channel: 973317262763229194
+
+# Chat Link
+channel:
+  lobby: 980926140699004978
+  factory: 980926140699004978
+  welcome: 972624124377710634
+
+messages:
+  start: ":white_check_mark: Server has started"
+  stop: ":octagonal_sign: Server has stopped"
+  first-join: ":tada: %player% has joined for the first time! :tada:"
+  join: "%player% joined the server"
+  left: "%player% left the server"
+  message-format: "%player% » %message%"
+  message-game-format: "[Discord] %player% » %message%"
